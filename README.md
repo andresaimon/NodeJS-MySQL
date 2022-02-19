@@ -14,7 +14,7 @@ Node.js + MySQL + Express + Sequelize
 
 ## MySQL
 
-- If you need install the MySQL in your Ubunto machine, you can see this tutorial: https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04-pt
+- If you need install the MySQL in your Ubuntu machine, you can see this tutorial: https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04-pt
 - You can follow the next link to make a configuration between the Node.js and the MySQL: https://www.youtube.com/watch?v=NkJwjy3LOd4)
 (https://www.webmundi.com/banco-de-dados/mysql/como-instalar-mysql-mysql-workbench-no-linux/
 
