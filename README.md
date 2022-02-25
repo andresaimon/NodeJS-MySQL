@@ -25,8 +25,9 @@ Node.js + MySQL + Express + Sequelize + Handlebars + body-parser
 ## MySQL
 
 - If you need install the MySQL in your Ubuntu machine, you can see this tutorial: https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04-pt
-- You can follow the next link to make a configuration between the Node.js and the MySQL: https://www.youtube.com/watch?v=NkJwjy3LOd4)
-(https://www.webmundi.com/banco-de-dados/mysql/como-instalar-mysql-mysql-workbench-no-linux/
+- You can follow the next links to make a configuration between the Node.js and the MySQL: 
+- https://www.youtube.com/watch?v=NkJwjy3LOd4
+- https://www.webmundi.com/banco-de-dados/mysql/como-instalar-mysql-mysql-workbench-no-linux/
 - For init the database, you can use the next comand: 
 ```mysql -h localhost -u root -p```
 
